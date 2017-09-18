@@ -1,4 +1,4 @@
-package org.nomadblacky.hello-spark
+package org.nomadblacky.hello_spark
 
 /**
  * A simple test for everyone's favourite wordcount example.
